@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunal Nagpal
 - 👀 I’m interested in web Developing
-- 🌱 I’m currently learning Web developing on Future skills prime 
+- 🌱 I’m currently learning Web developent Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   Mail-kunalnagpal.rrps@gmail.com
